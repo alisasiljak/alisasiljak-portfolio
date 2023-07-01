@@ -1,0 +1,11 @@
+{
+  "name": "alisasiljak-portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alisasiljak/alisasiljak-portfolio.git",
+  "author": "You-Wei (Adam) Chang <adamchang0725@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
